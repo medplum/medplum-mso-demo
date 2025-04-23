@@ -1,5 +1,5 @@
 
-> medplum-mso-demo@4.1.0 build
+> medplum-mso-demo@4.1.1 build
 > tsc && vite build
 
 [36mvite v6.2.6 [32mbuilding for production...[36m[39m
@@ -15,4 +15,4 @@ computing gzip size...
 - Using dynamic import() to code-split the application
 - Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
 - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
-[32m✓ built in 54.03s[39m
+[32m✓ built in 45.74s[39m
