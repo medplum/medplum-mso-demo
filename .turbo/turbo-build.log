@@ -1,5 +1,5 @@
 
-> medplum-mso-demo@4.2.4 build
+> medplum-mso-demo@4.2.6 build
 > tsc && vite build
 
 [36mvite v6.3.5 [32mbuilding for production...[36m[39m
@@ -11,8 +11,8 @@ computing gzip size...
 [2mdist/[22m[2massets/[22m[35mindex-BEnCYeki.css  [39m[1m[2m218.22 kB[22m[1m[22m[2m │ gzip:  32.14 kB[22m
 [33m
 (!) Some chunks are larger than 500 kB after minification. Consider:
-[2mdist/[22m[2massets/[22m[36mindex-CJerPHmu.js   [39m[1m[33m842.16 kB[39m[22m[2m │ gzip: 249.94 kB[22m
-[32m✓ built in 47.46s[39m
 - Using dynamic import() to code-split the application
 - Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+[2mdist/[22m[2massets/[22m[36mindex-HeDVKvle.js   [39m[1m[33m842.28 kB[39m[22m[2m │ gzip: 250.05 kB[22m
+[32m✓ built in 43.65s[39m
 - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
