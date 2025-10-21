@@ -39,7 +39,7 @@
     "react-dom": "19.2.0",
     "react-router": "7.9.4",
     "typescript": "5.9.3",
-    "vite": "7.1.9"
+    "vite": "7.1.11"
   },
   "packageManager": "npm@10.9.4",
   "engines": {
