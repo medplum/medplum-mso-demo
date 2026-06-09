@@ -1,16 +1,16 @@
 
-> medplum-mso-demo@5.1.16 build
+> medplum-mso-demo@5.1.17 build
 > tsc && vite build
 
 [36mvite v8.0.16 [32mbuilding client environment for production...[36m[39m
 [2Ktransforming...✓ 6965 modules transformed.
 rendering chunks...
 computing gzip size...
-dist/index.html                     0.46 kB │ gzip:   0.29 kB
+dist/index.html                     0.46 kB │ gzip:   0.30 kB
 dist/assets/index-VigLAMSz.css    231.78 kB │ gzip:  34.18 kB
-dist/assets/index-Dzb6Hsi7.js   1,050.10 kB │ gzip: 309.78 kB
+dist/assets/index-CYqjE6OC.js   1,050.14 kB │ gzip: 309.79 kB
 
-[32m✓ built in 6.01s[39m
+[32m✓ built in 4.44s[39m
 [33m[plugin builtin:vite-reporter] 
 (!) Some chunks are larger than 500 kB after minification. Consider:
 - Using dynamic import() to code-split the application
