@@ -1,22 +1,18 @@
 
-> medplum-mso-demo@5.1.26 build
+> medplum-mso-demo@5.1.27 build
 > tsc && vite build
 
-[36mvite v8.1.0 [32mbuilding client environment for production...[36m[39m
-[2Ktransforming...[38;5;147m[LARGE_BARREL_MODULES] [0m../../node_modules/@tabler/icons-react/dist/esm/tabler-icons-react.mjs has 6149 re-exports. Eagerly resolving every entry can significantly slow down the build. Consider using `@rolldown/plugin-transform-imports` to rewrite imports at the source level so the barrel file is never loaded.
- [38;5;240m │[0m 
- [38;5;240m │[0m [38;5;115mHelp[0m: See https://github.com/rolldown/plugins/tree/main/packages/transform-imports for usage.
-
-✓ 625 modules transformed.
+[36mvite v8.1.5 [32mbuilding client environment for production...[36m[39m
+[2Ktransforming...✓ 6985 modules transformed.
 rendering chunks...
 computing gzip size...
-dist/index.html                     0.46 kB │ gzip:   0.29 kB
-dist/assets/index-itDPl3ML.css    235.51 kB │ gzip:  34.60 kB
-dist/assets/index-DIbmHs4h.js   1,047.91 kB │ gzip: 308.57 kB
+dist/index.html                     0.46 kB │ gzip:   0.30 kB
+dist/assets/index-B_GiuGU1.css    235.65 kB │ gzip:  34.66 kB
+dist/assets/index-DPuFhLVz.js   1,022.52 kB │ gzip: 301.31 kB
 
 [33m[plugin builtin:vite-reporter] 
 (!) Some chunks are larger than 500 kB after minification. Consider:
 - Using dynamic import() to code-split the application
 - Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
 - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
-[32m✓ built in 3.40s[39m
+[32m✓ built in 5.10s[39m
