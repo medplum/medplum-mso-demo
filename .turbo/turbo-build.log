@@ -1,5 +1,5 @@
 
-> medplum-mso-demo@5.1.35 build
+> medplum-mso-demo@5.1.36 build
 > tsc && vite build
 
 [33m(!) Your Vite config uses features that are unsupported by `configLoader: 'native'`, which is planned to become the default in a future major version of Vite:
@@ -18,4 +18,4 @@ dist/assets/index-CfTBOZAL.js   918.41 kB │ gzip: 269.00 kB
 - Using dynamic import() to code-split the application
 - Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting
 - Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
-[32m✓ built in 5.07s[39m
+[32m✓ built in 3.90s[39m
